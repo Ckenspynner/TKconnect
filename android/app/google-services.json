@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1078273485481",
+    "project_id": "tkconnect-b4b64",
+    "storage_bucket": "tkconnect-b4b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078273485481:android:f793ba52d5e599a59e97b8",
+        "android_client_info": {
+          "package_name": "codespynner.io.takaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpIKX-_4TYzBvnBDvk2f0BoDKCcUaNmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078273485481:android:e94e850ef32a36ba9e97b8",
+        "android_client_info": {
+          "package_name": "codespynner.io.takaconnectv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpIKX-_4TYzBvnBDvk2f0BoDKCcUaNmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078273485481:android:aa3aaaff9d6056469e97b8",
+        "android_client_info": {
+          "package_name": "codespynner.io.tkconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpIKX-_4TYzBvnBDvk2f0BoDKCcUaNmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
